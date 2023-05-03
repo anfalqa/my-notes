@@ -22,7 +22,7 @@ my field is building websites using:
 
 
 <br>
-I learned after **reading the resource** a lot of things
+I learned after reading the resource a lot of things
 
 1. its imortant to understand the purpose of the software to help people.
 1. if you dont understand the purpose of the software will write bad software.
